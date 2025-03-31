@@ -1,1 +1,1 @@
-export const server = "http://localhost:3000";
+export const server = "https://creditsea-z1nq.onrender.com";
